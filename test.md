@@ -8,3 +8,4 @@
 
 лайфах, чтоб объеденить add и commit нужно набрать **git commit -am Название комита**
 
+![Vahagn](Vahagn.jpg)
